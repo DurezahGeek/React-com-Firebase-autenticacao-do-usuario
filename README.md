@@ -14,3 +14,4 @@ Renderização dinâmica : o aplicativo usa o gerenciamento de estado do React p
 Interface amigável : A interface é projetada com um layout limpo e amigável. Os campos de entrada para adicionar e editar postagens, bem como as entradas de autenticação do usuário, são bem estruturados.
 
 Estilo CSS : A folha de estilo CSS fornecida ( app.css) aprimora o apelo visual do aplicativo, com contêineres organizados, entradas de formulário
+![screencapture-localhost-3000-2023-08-18-14_57_49](https://github.com/DurezahGeek/React-com-Firebase-autenticacao-do-usuario/assets/134101156/eb7685c3-d2c3-4d5d-aa43-4cf32c9042bc)
